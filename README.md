@@ -22,6 +22,11 @@ This project uses a mixed-methods design:
 - `06_regressions_investigation.R` → robustness checks
 - `07_experimental_component.R` → vignette experiment analysis
 
+## Code Repository
+
+All replication files and scripts are available here:  
+https://github.com/mariachebli/Information-and-The-Making-of-Learned-Helplessness-in-Lebanon
+
 ## Methodology
 
 This project employs a multi-stage quantitative pipeline implemented in R to construct, validate, and analyze the concept of *Learned Political Helplessness (LPH)*. The workflow proceeds through data cleaning, scale construction, factor validation, and multiple regression-based analyses, followed by an experimental component.
