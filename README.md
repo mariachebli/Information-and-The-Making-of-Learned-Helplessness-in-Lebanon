@@ -24,7 +24,7 @@ This project uses a mixed-methods design:
 
 ## Code Repository
 
-All replication files and scripts are available here:  
+All replication files and scripts are available here: 
 https://github.com/mariachebli/Information-and-The-Making-of-Learned-Helplessness-in-Lebanon
 
 ## Methodology
